@@ -9,8 +9,7 @@
 As an IT graduate eager to dive into development, I'm recently finished in Cleverse Academy Full Stack JavaScript Immersive Bootcamp to build hands-on skills that focused on JavaScript and TypeScript. Although I'm new to development, I learned programming fundamentals and built projects using various languages, databases, and frameworks. I'm looking for opportunities to apply these skills, learn more and grow up as a developer.<br><br>
 
 
-*   🌍  I'm based in Bangkok
-*   ✉️  You can contact me at [P.nopanan@kkumail.com](mailto:P.nopanan@kkumail.com)
+*   ✉️  You can contact me at  [P.nopanan@kkumail.com](mailto:P.nopanan@kkumail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
